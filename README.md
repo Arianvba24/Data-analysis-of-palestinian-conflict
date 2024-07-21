@@ -1,1 +1,1 @@
-# Data-analysis-of-palestinian-conflict
+## Click the ipynb file to see the analysis
